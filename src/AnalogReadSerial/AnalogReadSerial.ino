@@ -1,7 +1,7 @@
 /*
 ===========================================================
  Project:    Analog Read Serial
- File:       AnalogReadSerial.py
+ File:       AnalogReadSerial.ino
  Author:     Mobin Yousefi (GitHub: github.com/mobinyousefi)
  Created:    2025-11-22
  Updated:    2025-11-22
