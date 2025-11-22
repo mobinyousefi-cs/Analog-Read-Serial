@@ -107,22 +107,6 @@ After uploading the code to your Arduino board, you need to open the Serial Moni
 2. **Select 9600 baud** to match the code: `Serial.begin(9600)`
 3. Ensure it matches exactly for proper communication
 
-### Serial Monitor Window Components
-┌─────────────────────────────────────────┐
-│ Serial Monitor [−] [×]│
-├─────────────────────────────────────────┤
-│ 512 │
-│ 513 │
-│ 515 │
-│ 518 │
-│ 520 │
-│ │
-│ │
-├─────────────────────────────────────────┤
-│ [Auto scroll] [Show timestamp] │
-│ Baud Rate: [9600 ▼] [Clear] [Send] │
-└─────────────────────────────────────────┘
-
 ## Verifying Proper Operation
 
 ### What You Should See
@@ -203,4 +187,5 @@ Once you have the Serial Monitor working correctly:
 ---
 
 **Tip**: Keep the Serial Monitor open while working on Arduino projects - it's an essential tool for debugging and monitoring your code's behavior!
+
 
