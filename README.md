@@ -78,7 +78,7 @@ void loop() {
   // Short delay for stability
   delay(1);
 }
-
+```
 # Step 3: Open Serial Monitor
 
 ## Opening the Serial Monitor
@@ -203,3 +203,4 @@ Once you have the Serial Monitor working correctly:
 ---
 
 **Tip**: Keep the Serial Monitor open while working on Arduino projects - it's an essential tool for debugging and monitoring your code's behavior!
+
